@@ -1,3 +1,4 @@
+![I'am Ummadi ajy](https://github.com/ajayummadi123/ajayummadi123/assets/95040861/87b2d133-df35-4d48-9cac-29534263519c)
 <h1 align="center">Hi 👋, I'm Ajay ummadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
